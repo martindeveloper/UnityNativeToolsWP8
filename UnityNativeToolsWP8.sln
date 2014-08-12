@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityNativeToolsWP8Device", "UnityNativeToolsWP8Device\UnityNativeToolsWP8Device.csproj", "{2F06BFE6-88D4-41D0-960B-28B032321834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityNativeToolsWP8Editor", "UnityNativeToolsWP8Editor\UnityNativeToolsWP8Editor.csproj", "{289A9D69-644D-49A2-99D2-34A15E6BBFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|ARM.Build.0 = Debug|ARM
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|x86.ActiveCfg = Debug|x86
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Debug|x86.Build.0 = Debug|x86
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|ARM.ActiveCfg = Release|ARM
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|ARM.Build.0 = Release|ARM
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|x86.ActiveCfg = Release|x86
+		{2F06BFE6-88D4-41D0-960B-28B032321834}.Release|x86.Build.0 = Release|x86
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{289A9D69-644D-49A2-99D2-34A15E6BBFAC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
