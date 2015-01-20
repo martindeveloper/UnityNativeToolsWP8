@@ -1,4 +1,5 @@
-﻿using Windows.Phone.Speech.Synthesis;
+﻿using System;
+using Windows.Phone.Speech.Synthesis;
 
 namespace UnityNativeToolsWP8
 {
